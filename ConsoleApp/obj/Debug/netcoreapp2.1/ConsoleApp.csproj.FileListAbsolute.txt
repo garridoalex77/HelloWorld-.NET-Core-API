@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\HelloWorld\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.deps.json
+C:\Users\Alex\source\repos\HelloWorld\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.runtimeconfig.json
+C:\Users\Alex\source\repos\HelloWorld\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\HelloWorld\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.dll
+C:\Users\Alex\source\repos\HelloWorld\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.pdb
+C:\Users\Alex\source\repos\HelloWorld\ConsoleApp\bin\Debug\netcoreapp2.1\HelloWorld.dll
+C:\Users\Alex\source\repos\HelloWorld\ConsoleApp\bin\Debug\netcoreapp2.1\HelloWorld.pdb
+C:\Users\Alex\source\repos\HelloWorld\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\HelloWorld\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\HelloWorld\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\HelloWorld\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\Alex\source\repos\HelloWorld\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csproj.CopyComplete
+C:\Users\Alex\source\repos\HelloWorld\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.dll
+C:\Users\Alex\source\repos\HelloWorld\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.pdb
