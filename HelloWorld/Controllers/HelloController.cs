@@ -10,9 +10,9 @@ namespace HelloWorld.Controllers
     [ApiController]
     public class HelloController : ControllerBase
     {
-        private readonly HelloService _helloService;
+        private readonly IHelloService _helloService;
 
-        public HelloController(HelloService helloService)
+        public HelloController(IHelloService helloService)
         {
             _helloService = helloService;
         }
@@ -28,7 +28,7 @@ namespace HelloWorld.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult<string>> GeById(long id)
         {   
-            return await _helloService.GetWorldNameAsync();
+            return await _helloService.GetWorldNameByIdAsync(id);
         }
         // POST api/Hello
         [HttpPost]

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HelloWorld
 {
-    public class HelloService
+    public class HelloService : IHelloService
     {
         private readonly HWContext _context;
 

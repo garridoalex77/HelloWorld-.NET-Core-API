@@ -23,6 +23,7 @@ namespace HelloWorld
             services.AddDbContext<HWContext>(opt =>
                opt.UseInMemoryDatabase("Worlds"));
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+            services.AddTransient<IHelloService, HelloService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
